@@ -5,8 +5,6 @@ Files included:
 
     Parts list
     
-    Jar description
-    
     STL file for the case top
     
     STL flie for the case bottom
