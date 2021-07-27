@@ -12,6 +12,8 @@ Files included:
     STL flie for the case bottom
 	 
 	 Pictures
+	 
+	 Video
     
 Note the Boost Power Module takes 2 months to ship to USA.  Recommend buying more then one.  I've already had one short out on me.
 
